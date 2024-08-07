@@ -2,6 +2,12 @@
 Library for interacting with the PokeAPI.
 https://pokeapi.co/
 '''
+"""
+Name : Lakshya Dubey
+Student ID: 10331244
+Group: Rishi Patel, Bhavya Solanki, Lakshya Dubey 
+"""
+
 import requests
 
 POKE_API_URL = 'https://pokeapi.co/api/v2/pokemon/'
